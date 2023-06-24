@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+Welcome to my Github 🎉🎉    
+I'm kiwiiiiiiiiO and I'm a software engineering student.
+### 🔭 I’m currently working on...
+#### Team
+- [kiwiiiiiiiiO/MyHealthyLife](https://github.com/kiwiiiiiiiiO/MyHealthyLife)
+- [yeeda0811/DuckUp](https://github.com/yeeda0811/DuckUp)
 <!--
 **kiwiiiiiiiiO/kiwiiiiiiiiO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
